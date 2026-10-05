@@ -41,6 +41,10 @@ Work is actively shared between **<https://github.com/ChiefGyk3D>** and this org
 
 ### 📡 The Hammunition suite
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Renegade-Penguin/Hammunition/main/docs/images/logo.png" alt="Hammunition" width="300">
+</p>
+
 Hammunition turns a stock Debian-family install into an amateur radio and SDR workstation, then keeps it fed, controlled, and on time. One engine with its own console, and several small clients that only ever talk to it through its JSON interface.
 
 ```mermaid
