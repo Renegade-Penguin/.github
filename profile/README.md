@@ -6,6 +6,8 @@
 
 Cybersecurity · Linux · Amateur radio · Homelab · Automation · Hardware
 
+[renegadepenguinllc.com](https://renegadepenguinllc.com) for consulting · [chiefgyk3d.com](https://chiefgyk3d.com) for the blog and technical journal
+
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://social.chiefgyk3d.com/@chiefgyk3d)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/chiefgyk3d.com)
 [![Matrix](https://img.shields.io/badge/-Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/#renegade-penguin:chiefgyk3d.com)
@@ -35,9 +37,15 @@ As my projects have grown in size, scope, and complexity, I needed to move beyon
 
 That does **not** mean my personal GitHub is going away.
 
-Work is actively shared between **<https://github.com/ChiefGyk3D>** and this organization. Depending on the project, you may find repositories here or under my personal account, and both are part of the same body of work, maintained by me. A project generally moves here when it outgrows a single repo or needs things a personal account cannot do well, and it keeps its history, issues, and links when it does. Renegade Penguin LLC is the entity behind the work; the code stays open source either way.
+Work is actively shared between **<https://github.com/ChiefGyk3D>** and this organization. Depending on the project, you may find repositories here or under my personal account, and both are part of the same body of work, maintained by me. A project generally moves here when it outgrows a single repo or needs things a personal account cannot do well, and it keeps its history, issues, and links when it does. Renegade Penguin LLC is the entity behind the work; the code stays open source either way. The LLC takes cybersecurity and IT consulting, education, and speaking work through [renegadepenguinllc.com](https://renegadepenguinllc.com).
 
 ## What lives here
+
+### 🐧 Sites and profiles
+
+- The LLC site is [renegadepenguinllc.com](https://renegadepenguinllc.com), with its source at [Renegade-Penguin/renegade-penguin-site](https://github.com/Renegade-Penguin/renegade-penguin-site).
+- The rest of the work lives on the [ChiefGyk3D personal GitHub profile](https://github.com/ChiefGyk3D).
+- The blog and technical journal is [chiefgyk3d.com](https://chiefgyk3d.com).
 
 ### 📡 The Hammunition suite
 
@@ -97,4 +105,4 @@ Everything here is open source and built on my own time and hardware. If somethi
 | Ethereum (ETH) | `0x554f18cfB684889c3A60219BDBE7b050C39335ED` |
 | Solana (SOL) | `5T8h3HbyvHgLxwXgchRYbHSqRjZyAr8J7uwjLN9Fh8Jh` |
 
-For additional projects, contributions, and ongoing development, also check out **<https://github.com/ChiefGyk3D>**.
+For additional projects, contributions, and ongoing development, also check out **<https://github.com/ChiefGyk3D>** and the blog and technical journal at **<https://chiefgyk3d.com>**.
